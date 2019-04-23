@@ -6,6 +6,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>D:\Users\benny\Desktop\quartzUI</_PublishTargetUrl>
+    <_PublishTargetUrl>E:\Repository\quartzui\QuartzNetUI\Host\bin\Release\QuartzPublish</_PublishTargetUrl>
   </PropertyGroup>
 </Project>

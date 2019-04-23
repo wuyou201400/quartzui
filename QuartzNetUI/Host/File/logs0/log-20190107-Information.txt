@@ -1,0 +1,30 @@
+2019-01-07 13:35:56.473 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-07 13:35:56.910 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-07 13:35:56.915 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-07 13:35:57.095 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-07 13:35:57.098 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-07 13:35:57.098 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-07 13:35:57.099 +08:00 [Information] JobStoreTX initialized.
+2019-01-07 13:35:57.106 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-07 13:35:57.106 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-07 13:35:57.106 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-07 13:35:57.735 +08:00 [Information] Freed 0 triggers from 'acquired' / 'blocked' state.
+2019-01-07 13:35:57.765 +08:00 [Information] Recovering 0 jobs that were in-progress at the time of the last shut-down.
+2019-01-07 13:35:57.765 +08:00 [Information] Recovery complete.
+2019-01-07 13:35:57.771 +08:00 [Information] Removed 0 'complete' triggers.
+2019-01-07 13:35:57.775 +08:00 [Information] Removed 0 stale fired job entries.
+2019-01-07 13:35:58.001 +08:00 [Information] Scheduler bennyScheduler_$_AUTO started.
+2019-01-07 13:40:09.507 +08:00 [Information] Begin - Code:38020958 Type:Get Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-07 13:40:11.646 +08:00 [Information] End   - Code:38020958 Type:Get 耗时:2.1393829秒  Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-07 13:43:03.156 +08:00 [Information] 任务“测试任务”恢复运行
+2019-01-07 13:43:36.476 +08:00 [Information] Begin - Code:66134676 Type:Get Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-07 13:43:39.343 +08:00 [Information] End   - Code:66134676 Type:Get 耗时:2.8662584秒  Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-07 14:04:29.265 +08:00 [Information] ConnectionAndTransactionHolder passed to RollbackConnection was null, ignoring
+2019-01-07 14:05:05.271 +08:00 [Information] ConnectionAndTransactionHolder passed to RollbackConnection was null, ignoring
