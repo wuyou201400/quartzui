@@ -68,6 +68,16 @@ namespace Host
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
+            //设置IIS虚拟目录
+            // 读取环境变量 ASPNETCORE_PATHBASE
+            var pathBase = Environment.GetEnvironmentVariable("ASPNETCORE_PATHBASE");
+            // 如果 ASPNETCORE_PATHBASE 的值不为空， 则使用 Pathbase 中间件
+            //if (!string.IsNullOrEmpty(pathBase))
+            //{
+            //    app.UsePathBase(new Microsoft.AspNetCore.Http.PathString(pathBase));
+            //    Console.WriteLine("Hosting pathbase: " + pathBase);
+            //}
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
@@ -91,6 +101,12 @@ namespace Host
 
             app.UseDefaultFiles();
             app.UseStaticFiles();
+            //app.UseStaticFiles(new StaticFileOptions()
+            //{
+            //    FileProvider = new Microsoft.Extensions.FileProviders.PhysicalFileProvider(
+            //                   Path.Combine(Directory.GetCurrentDirectory(), "E:\\Html\\News")),
+            //    RequestPath = new Microsoft.AspNetCore.Http.PathString("Static")
+            //});
 
             app.UseSwagger();
             app.UseSwaggerUI(c =>

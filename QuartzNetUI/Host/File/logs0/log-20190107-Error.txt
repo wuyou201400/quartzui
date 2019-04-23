@@ -1,0 +1,50 @@
+2019-01-07 14:04:29.268 +08:00 [Error] Error handling misfires: Failure setting up connection.
+Quartz.JobPersistenceException: Failure setting up connection. ---> Microsoft.Data.Sqlite.SqliteException: SQLite Error 5: 'database is locked'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at Microsoft.Data.Sqlite.SqliteConnectionExtensions.ExecuteNonQuery(SqliteConnection connection, String commandText)
+   at Microsoft.Data.Sqlite.SqliteTransaction..ctor(SqliteConnection connection, IsolationLevel isolationLevel)
+   at Microsoft.Data.Sqlite.SqliteConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.Data.Sqlite.SqliteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.GetConnection() in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 336
+   --- End of inner exception stack trace ---
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.GetConnection() in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 349
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.DoRecoverMisfires(Guid requestorId, CancellationToken cancellationToken) in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 3012
+   at Quartz.Impl.AdoJobStore.MisfireHandler.Manage() in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\MisfireHandler.cs:line 93 [See nested exception: Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 5: 'database is locked'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at Microsoft.Data.Sqlite.SqliteConnectionExtensions.ExecuteNonQuery(SqliteConnection connection, String commandText)
+   at Microsoft.Data.Sqlite.SqliteTransaction..ctor(SqliteConnection connection, IsolationLevel isolationLevel)
+   at Microsoft.Data.Sqlite.SqliteConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.Data.Sqlite.SqliteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.GetConnection() in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 336]
+2019-01-07 14:05:05.277 +08:00 [Error] An error occurred while scanning for the next trigger to fire.
+Quartz.JobPersistenceException: Failure setting up connection. ---> Microsoft.Data.Sqlite.SqliteException: SQLite Error 5: 'database is locked'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at Microsoft.Data.Sqlite.SqliteConnectionExtensions.ExecuteNonQuery(SqliteConnection connection, String commandText)
+   at Microsoft.Data.Sqlite.SqliteTransaction..ctor(SqliteConnection connection, IsolationLevel isolationLevel)
+   at Microsoft.Data.Sqlite.SqliteConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.Data.Sqlite.SqliteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.GetConnection() in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 336
+   --- End of inner exception stack trace ---
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.GetConnection() in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 349
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.ExecuteInNonManagedTXLock[T](String lockName, Func`2 txCallback, Func`3 txValidator, CancellationToken cancellationToken) in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 3654
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.ExecuteInNonManagedTXLock[T](String lockName, Func`2 txCallback, Func`3 txValidator, CancellationToken cancellationToken) in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 3712
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.AcquireNextTriggers(DateTimeOffset noLaterThan, Int32 maxCount, TimeSpan timeWindow, CancellationToken cancellationToken) in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 2540
+   at Quartz.Core.QuartzSchedulerThread.Run() in C:\projects\quartznet-6fcn8\src\Quartz\Core\QuartzSchedulerThread.cs:line 262 [See nested exception: Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 5: 'database is locked'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteNonQuery()
+   at Microsoft.Data.Sqlite.SqliteConnectionExtensions.ExecuteNonQuery(SqliteConnection connection, String commandText)
+   at Microsoft.Data.Sqlite.SqliteTransaction..ctor(SqliteConnection connection, IsolationLevel isolationLevel)
+   at Microsoft.Data.Sqlite.SqliteConnection.BeginTransaction(IsolationLevel isolationLevel)
+   at Microsoft.Data.Sqlite.SqliteConnection.BeginDbTransaction(IsolationLevel isolationLevel)
+   at Quartz.Impl.AdoJobStore.JobStoreSupport.GetConnection() in C:\projects\quartznet-6fcn8\src\Quartz\Impl\AdoJobStore\JobStoreSupport.cs:line 336]

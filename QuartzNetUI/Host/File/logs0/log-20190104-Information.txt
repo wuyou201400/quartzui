@@ -1,0 +1,344 @@
+2019-01-04 14:25:34.419 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:25:41.647 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:25:52.067 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:25:53.267 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:25:53.267 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:25:53.982 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:25:56.488 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:25:57.367 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:25:57.505 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:25:57.505 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:25:57.506 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:25:57.506 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:25:57.507 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:25:57.507 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:25:57.508 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:25:57.508 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:25:57.508 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:25:57.508 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:25:57.508 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:25:57.508 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:25:57.508 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:25:57.508 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:25:57.508 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:25:57.509 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:25:58.213 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:25:58.213 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:25:58.213 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:25:58.213 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:25:58.213 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:25:58.213 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:25:58.214 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:25:58.215 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:25:58.221 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:25:58.221 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:25:58.221 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:25:58.221 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:25:58.221 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:25:58.221 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:25:58.221 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:25:58.221 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:25:58.221 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:25:58.221 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:25:58.221 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:25:58.221 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:25:58.221 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:25:58.221 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:25:58.221 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:25:58.222 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:25:58.222 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:25:58.222 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:25:58.222 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:25:58.222 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:25:58.222 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:25:58.222 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:25:58.222 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:25:58.222 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:25:58.251 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:25:58.251 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:25:58.251 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:25:58.251 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:25:58.251 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:25:58.251 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:25:58.251 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:25:58.251 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:25:58.252 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:25:58.252 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:25:58.252 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:26:00.821 +08:00 [Information] Freed 0 triggers from 'acquired' / 'blocked' state.
+2019-01-04 14:26:00.970 +08:00 [Information] Recovering 0 jobs that were in-progress at the time of the last shut-down.
+2019-01-04 14:26:00.970 +08:00 [Information] Recovery complete.
+2019-01-04 14:26:00.981 +08:00 [Information] Removed 0 'complete' triggers.
+2019-01-04 14:26:00.986 +08:00 [Information] Removed 0 stale fired job entries.
+2019-01-04 14:26:01.548 +08:00 [Information] Scheduler bennyScheduler_$_AUTO started.
+2019-01-04 14:30:19.033 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:30:19.104 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:30:19.110 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:30:19.147 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:30:19.147 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:30:19.150 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:30:19.150 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:30:19.182 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:30:19.182 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:30:19.197 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:30:19.197 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:30:19.197 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:30:19.201 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:30:19.201 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:30:19.201 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:30:19.201 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:30:19.201 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:30:19.201 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:30:19.202 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:30:19.202 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:30:19.202 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:30:19.214 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:30:19.214 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:30:19.214 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:30:19.219 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:30:19.219 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:30:19.219 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:30:19.219 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:30:19.219 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:30:19.219 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:30:19.671 +08:00 [Information] Freed 0 triggers from 'acquired' / 'blocked' state.
+2019-01-04 14:30:19.703 +08:00 [Information] Recovering 0 jobs that were in-progress at the time of the last shut-down.
+2019-01-04 14:30:19.703 +08:00 [Information] Recovery complete.
+2019-01-04 14:30:19.712 +08:00 [Information] Removed 0 'complete' triggers.
+2019-01-04 14:30:19.718 +08:00 [Information] Removed 0 stale fired job entries.
+2019-01-04 14:30:23.364 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:30:23.364 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 14:30:23.458 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:30:23.458 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 14:30:23.461 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:30:23.461 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 14:30:23.530 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:30:23.530 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 14:30:23.534 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:30:23.534 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 14:30:23.534 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:30:23.534 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 14:30:23.535 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:30:23.535 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 14:30:23.543 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:30:23.543 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 14:30:23.543 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:30:23.543 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 14:30:23.543 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:30:23.543 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 14:30:23.964 +08:00 [Information] Freed 0 triggers from 'acquired' / 'blocked' state.
+2019-01-04 14:30:24.080 +08:00 [Information] Recovering 0 jobs that were in-progress at the time of the last shut-down.
+2019-01-04 14:30:24.080 +08:00 [Information] Recovery complete.
+2019-01-04 14:30:24.088 +08:00 [Information] Removed 0 'complete' triggers.
+2019-01-04 14:30:24.093 +08:00 [Information] Removed 0 stale fired job entries.
+2019-01-04 14:30:24.396 +08:00 [Information] Scheduler bennyScheduler_$_AUTO started.
+2019-01-04 15:06:10.372 +08:00 [Information] Handling 1 trigger(s) that missed their scheduled fire-time.
+2019-01-04 15:06:11.096 +08:00 [Information] ConnectionAndTransactionHolder passed to RollbackConnection was null, ignoring
+2019-01-04 15:06:48.588 +08:00 [Information] ConnectionAndTransactionHolder passed to RollbackConnection was null, ignoring
+2019-01-04 15:06:49.242 +08:00 [Information] ConnectionAndTransactionHolder passed to RollbackConnection was null, ignoring
+2019-01-04 15:06:55.327 +08:00 [Information] Begin - Code:65474526 Type:Get Url:http://localhost:52725/ Parameters: JobName:default.测试任务
+2019-01-04 15:07:37.100 +08:00 [Information] End   - Code:65474526 Type:Get 耗时:41.7686058秒  Url:http://localhost:52725/ Parameters: JobName:default.测试任务
+2019-01-04 15:07:37.450 +08:00 [Information] Begin - Code:64547437 Type:Get Url:http://localhost:52725/ Parameters: JobName:default.测试任务
+2019-01-04 15:07:38.982 +08:00 [Information] End   - Code:64547437 Type:Get 耗时:1.5315404秒  Url:http://localhost:52725/ Parameters: JobName:default.测试任务
+2019-01-04 15:08:02.916 +08:00 [Information] Begin - Code:23582096 Type:Get Url:http://localhost:52725/ Parameters: JobName:default.测试任务
+2019-01-04 15:08:02.973 +08:00 [Information] End   - Code:23582096 Type:Get 耗时:0.0573926秒  Url:http://localhost:52725/ Parameters: JobName:default.测试任务
+2019-01-04 15:08:40.030 +08:00 [Information] Begin - Code:30011367 Type:Get Url:http://localhost:52725/ Parameters: JobName:default.测试任务
+2019-01-04 15:08:40.109 +08:00 [Information] End   - Code:30011367 Type:Get 耗时:0.0790301秒  Url:http://localhost:52725/ Parameters: JobName:default.测试任务
+2019-01-04 15:09:30.880 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 15:09:30.935 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 15:09:30.938 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 15:09:31.014 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 15:09:31.016 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 15:09:31.016 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 15:09:31.017 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 15:09:31.024 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 15:09:31.024 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 15:09:31.024 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 15:09:31.441 +08:00 [Information] Freed 0 triggers from 'acquired' / 'blocked' state.
+2019-01-04 15:09:31.480 +08:00 [Information] Recovering 0 jobs that were in-progress at the time of the last shut-down.
+2019-01-04 15:09:31.480 +08:00 [Information] Recovery complete.
+2019-01-04 15:09:31.486 +08:00 [Information] Removed 0 'complete' triggers.
+2019-01-04 15:09:31.490 +08:00 [Information] Removed 0 stale fired job entries.
+2019-01-04 15:09:31.693 +08:00 [Information] Scheduler bennyScheduler_$_AUTO started.
+2019-01-04 18:08:25.078 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 18:08:25.328 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 18:08:25.331 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 18:08:25.717 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 18:08:25.721 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 18:08:25.721 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 18:08:25.722 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 18:08:25.734 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 18:08:25.734 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 18:08:25.734 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 18:08:38.271 +08:00 [Information] Freed 0 triggers from 'acquired' / 'blocked' state.
+2019-01-04 18:08:38.336 +08:00 [Information] Recovering 0 jobs that were in-progress at the time of the last shut-down.
+2019-01-04 18:08:38.336 +08:00 [Information] Recovery complete.
+2019-01-04 18:08:38.343 +08:00 [Information] Removed 0 'complete' triggers.
+2019-01-04 18:08:38.346 +08:00 [Information] Removed 0 stale fired job entries.
+2019-01-04 18:08:38.721 +08:00 [Information] Scheduler bennyScheduler_$_AUTO started.
+2019-01-04 18:15:18.482 +08:00 [Information] Begin - Code:56816158 Type:Get Url:http://localhost:52725/api/test Parameters: JobName:default.测试任务
+2019-01-04 18:15:19.273 +08:00 [Information] End   - Code:56816158 Type:Get 耗时:0.7924868秒  Url:http://localhost:52725/api/test Parameters: JobName:default.测试任务
+2019-01-04 18:15:38.995 +08:00 [Information] Handling 1 trigger(s) that missed their scheduled fire-time.
+2019-01-04 18:16:20.787 +08:00 [Information] Begin - Code:41314105 Type:Get Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:16:22.526 +08:00 [Information] End   - Code:41314105 Type:Get 耗时:1.7388292秒  Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:16:39.000 +08:00 [Information] Handling 1 trigger(s) that missed their scheduled fire-time.
+2019-01-04 18:17:36.258 +08:00 [Information] Begin - Code:42504541 Type:Get Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:17:39.515 +08:00 [Information] End   - Code:42504541 Type:Get 耗时:3.2562747秒  Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:18:36.673 +08:00 [Information] Begin - Code:27393920 Type:Get Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:18:38.966 +08:00 [Information] End   - Code:27393920 Type:Get 耗时:2.2935505秒  Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:19:36.173 +08:00 [Information] Begin - Code:66169886 Type:Get Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:19:37.891 +08:00 [Information] End   - Code:66169886 Type:Get 耗时:1.7182259秒  Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:20:33.485 +08:00 [Information] Begin - Code:10241220 Type:Get Url:http://localhost:56378/ajax/Job.ashx/SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:20:36.204 +08:00 [Information] Begin - Code:38829514 Type:Get Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:20:38.078 +08:00 [Information] End   - Code:38829514 Type:Get 耗时:1.8742272秒  Url:http://localhost:52725/api/test/Get Parameters: JobName:default.测试任务
+2019-01-04 18:20:55.784 +08:00 [Information] End   - Code:10241220 Type:Get 耗时:22.2996544秒  Url:http://localhost:56378/ajax/Job.ashx/SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:21:38.628 +08:00 [Information] Begin - Code:50730548 Type:Get Url:http://localhost:56378/ajax/Job.ashx/SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:21:45.295 +08:00 [Information] End   - Code:50730548 Type:Get 耗时:6.6672443秒  Url:http://localhost:56378/ajax/Job.ashx/SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:22:24.553 +08:00 [Information] Begin - Code:60243838 Type:Get Url:http://localhost:56378/ajax/Job.ashx?Method=SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:22:51.754 +08:00 [Information] End   - Code:60243838 Type:Get 耗时:27.2015594秒  Url:http://localhost:56378/ajax/Job.ashx?Method=SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:23:39.576 +08:00 [Information] Handling 1 trigger(s) that missed their scheduled fire-time.
+2019-01-04 18:24:14.463 +08:00 [Information] Begin - Code:60331681 Type:Get Url:http://localhost:56378/ajax/Job.ashx?Method=SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:24:27.959 +08:00 [Information] End   - Code:60331681 Type:Get 耗时:13.4967607秒  Url:http://localhost:56378/ajax/Job.ashx?Method=SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:26:14.071 +08:00 [Information] Begin - Code:31667218 Type:Get Url:http://localhost:56378/ajax/Job.ashx?Method=SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:26:28.998 +08:00 [Information] End   - Code:31667218 Type:Get 耗时:14.9266572秒  Url:http://localhost:56378/ajax/Job.ashx?Method=SyncJobTimer Parameters: JobName:default.调用ashx定时工单
+2019-01-04 18:36:37.277 +08:00 [Information] Registering datasource 'default' with db provider: 'Quartz.Impl.AdoJobStore.Common.DbProvider'
+2019-01-04 18:36:37.364 +08:00 [Information] Initialized Scheduler Signaller of type: Quartz.Core.SchedulerSignalerImpl
+2019-01-04 18:36:37.368 +08:00 [Information] Quartz Scheduler v."3.0.4.0" created.
+2019-01-04 18:36:37.535 +08:00 [Information] Detected SQLite usage, changing to use UpdateLockRowSemaphore
+2019-01-04 18:36:37.541 +08:00 [Information] With SQLite we need to set AcquireTriggersWithinLock to true, changing
+2019-01-04 18:36:37.541 +08:00 [Information] Detected usage of SQLiteDelegate - defaulting 'txIsolationLevelSerializable' to 'true'
+2019-01-04 18:36:37.542 +08:00 [Information] JobStoreTX initialized.
+2019-01-04 18:36:37.549 +08:00 [Information] Scheduler meta-data: Quartz Scheduler (v3.0.4.0) 'bennyScheduler' with instanceId 'AUTO'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Impl.AdoJobStore.JobStoreTX' - which supports persistence. and is not clustered.
+
+2019-01-04 18:36:37.549 +08:00 [Information] Quartz scheduler 'bennyScheduler
+2019-01-04 18:36:37.549 +08:00 [Information] Quartz scheduler version: 3.0.4.0
+2019-01-04 18:36:37.698 +08:00 [Information] Freed 0 triggers from 'acquired' / 'blocked' state.
+2019-01-04 18:36:37.726 +08:00 [Information] Recovering 0 jobs that were in-progress at the time of the last shut-down.
+2019-01-04 18:36:37.726 +08:00 [Information] Recovery complete.
+2019-01-04 18:36:37.731 +08:00 [Information] Removed 0 'complete' triggers.
+2019-01-04 18:36:37.734 +08:00 [Information] Removed 0 stale fired job entries.
+2019-01-04 18:36:38.416 +08:00 [Information] Scheduler bennyScheduler_$_AUTO started.
