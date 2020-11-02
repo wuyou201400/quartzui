@@ -7,7 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-using Topshelf;
+//using Topshelf;
 
 namespace Host
 {
@@ -49,8 +49,8 @@ namespace Host
         public static IWebHost BuildWebHost(string[] args, IConfiguration config) =>
 
             WebHost.CreateDefaultBuilder(args)
-            .UseConfiguration(config)
-            .UseUrls(config["urls"])
+            //.UseConfiguration(config)
+            //.UseUrls(config["urls"])
                 .UseStartup<Startup>()
                 .Build();
     }
