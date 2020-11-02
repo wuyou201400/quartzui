@@ -23,7 +23,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development",
         "ASPNETCORE_PATHBASE": "/OverHandleTask2"
       },
-      "applicationUrl": "http://localhost:52728/"
+      "applicationUrl": "http://localhost:52725/"
     }
   }
 }
